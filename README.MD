@@ -6,8 +6,8 @@
   Integrando ChatGPT 
 </h2>
 </p>(Como não consegui fazer funcionar estou entregando o projeto clone do Professor)
-</p>-Pelo que percebi a Api atual para node está  diferente da implementação do projeto.
-</p>-Creio que foi atualizada e para funcionar corretamente precisa ajusta para o novo modelo.
+</p>-Pelo que percebi a Api atual para node está  diferente da implementação do projeto do professor.
+</p>-Creio que foi atualizada e para funcionar corretamente precisa ajustar para o novo modelo.
 
 <h3>Integrando algoritmo do OpenAI</h3>
 

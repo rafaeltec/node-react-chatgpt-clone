@@ -9,7 +9,7 @@
 </p>-Pelo que percebi a Api atual para node está  diferente da implementação do projeto.
 </p>-Creio que foi atualizada e para funcionar corretamente precisa ajusta para o novo modelo.
 
-Integrando algoritmo do OpenAI
+<h3>Integrando algoritmo do OpenAI</h3>
 
 <!-- <p align="center">
 <img src="" title="ChatGPT">

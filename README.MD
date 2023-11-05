@@ -3,7 +3,9 @@
 </p> -->
 
 <h2 align="center">
-  Integrando ChatGPT  (Como não consegui fazer funcioonar estou entregando o projeto clone do Professor)
+  Integrando ChatGPT  (Como não consegui fazer funcionar estou entregando o projeto clone do Professor)
+  Pelo que percebi a Api atual para node está  diferente da implementação do projeto, creio que foi atualizada e para funcionar corretamente precisa ajusta para o novo modelo.
+
 </h2>
 
 Integrando algoritmo do OpenAI

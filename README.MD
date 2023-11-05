@@ -3,7 +3,7 @@
 </p> -->
 
 <h2 align="center">
-  Integrando ChatGPT  
+  Integrando ChatGPT  (Como não consegui fazer funcioonar estou entregando o projeto clone do Professor)
 </h2>
 
 Integrando algoritmo do OpenAI
@@ -25,7 +25,7 @@ Integrando algoritmo do OpenAI
   - Javascript
 
 
-### Como eu faço para executar o serviço do backend?
+### executar o serviço do backend
 
 ```sh
 $ cd server
@@ -35,7 +35,7 @@ $ npm start
 
 Feito isso o serviço de backend estará funcionando na porta :5000. 
 
-### Como eu faço para executar o serviço do frontend?
+### executar o serviço do frontend
 
 ```sh
 $ cd web
